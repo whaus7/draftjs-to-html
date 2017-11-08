@@ -1,7 +1,7 @@
 {
   "name": "draftjs-to-html-with-settings",
   "version": "0.7.6",
-  "description": "A library for draftjs to html conversion with settings for specifying HTML tags.",
+  "description": "All credit goes to jpuri here. Forked from https://github.com/jpuri/draftjs-to-html. A library for draftjs to html conversion. Going to add settings for specifying HTML tags i.e. <strong> or <b>.",
   "main": "lib/draftjs-to-html.js",
   "devDependencies": {
     "babel-core": "^6.25.0",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpuri/draftjs-to-html.git"
+    "url": "https://github.com/whaus777/draftjs-to-html-with-settings.git"
   },
   "scripts": {
     "clean": "rimraf lib",
