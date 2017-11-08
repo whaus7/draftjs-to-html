@@ -1,5 +1,7 @@
 # DraftJS TO HTML
 
+All credit goes to jpuri here. Forked from https://github.com/jpuri/draftjs-to-html. Attempting to add settings for specifying HTML tags i.e. <strong> or <b>
+
 A library for converting DraftJS Editor content to plain HTML.
 
 This is draft to HTML library I wrote for one of my projects. I am open-sourcing it so that others can also be benefitted from my work.
